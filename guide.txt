@@ -1,0 +1,35 @@
+1: cd (change directory where you want to create a file)
+
+2: to create a file - touch file.txt
+
+3: to initialize git repository - git init
+
+4: to see the files in the directory - ls -a
+
+5: to see commits - git status
+
+6: to add a file to commit - git add file.txt					***add
+
+7: after adding - git status (appears "changes to be committed")
+
+8: to commit - got commit -m "message"						***commit
+
+9: after commit - git log - commit details will appear
+
+10: to see the difference after changing contents in the file - git diff file.txt
+
+11: to rollback to the previous file - git checkout file.txt			***rollback
+
+12: to connect to the github - git remote add origin link.from.the.website	***connect
+
+13: to push the code - git push -u origin master				***push
+
+14: to clone repository - git clone url//of//the//repository			***clone
+
+15: clone - creates a clone of a project in the github in your system's directory
+
+16: fork - creates a copy of that repository in your github
+
+17: pull request - after forking, if you want to notice the changes made to the original owner of the repository,
+		   you can create a pull request and ask them to check it. So in their account, if they like the 
+		   changes they can merge the pull request and the changes will be applied to the owners repository.
