@@ -32,4 +32,7 @@
 
 17: pull request - after forking, if you want to notice the changes made to the original owner of the repository,
 		   you can create a pull request and ask them to check it. So in their account, if they like the 
-		   changes they can merge the pull request and the changes will be applied to the owners repository.
+		   changes they can merge the pull request and the changes will be applied to the owners repositry.
+
+18: pull command - git pull <repositry-url> <branch-name>                      ***pull
+
